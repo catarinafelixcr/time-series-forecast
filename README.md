@@ -1,7 +1,13 @@
 Time Series Forecast
 ==============================
 
-i will do a project with a lot of search to apply time series techniques for 1st time correctly
+Aqui irei adicionar as seguintes informações quando as tiver:
+- titulo do projeto
+- descricao do mesmo
+- como instalar!! pip install -r requirements.txt
+- como usar: ordem dos scriptsw notebooks
+- estrutura do projeto - mencionar cookiecutter v1
+
 
 Project Organization
 ------------

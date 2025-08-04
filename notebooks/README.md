@@ -1,0 +1,2 @@
+Esta pasta contém os Jupyter Notebooks para análise exploratória e desenvolvimento do modelo.
+Convenção de Nomes: Explique a ordem. (Ex: 01- para exploração, 02- para limpeza e processamento, 03- para modelagem...).

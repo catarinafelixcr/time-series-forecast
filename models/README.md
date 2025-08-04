@@ -1,0 +1,1 @@
+Esta pasta contém os modelos treinados e serializados.
