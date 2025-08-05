@@ -4,6 +4,7 @@ Time Series Forecast
 Aqui irei adicionar as seguintes informações quando as tiver:
 - titulo do projeto
 - descricao do mesmo
+- fonte: M. Kahn. "Diabetes," UCI Machine Learning Repository,  [Online]. Available: https://doi.org/10.24432/C5T59G.
 - como instalar!! pip install -r requirements.txt
 - como usar: ordem dos scriptsw notebooks
 - estrutura do projeto - mencionar cookiecutter v1
