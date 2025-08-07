@@ -1,0 +1,1 @@
+Depois de desenvolver e testar uma lógica no seu notebook (ex: uma função para limpar os dados ou para criar uma feature específica), você "promove" esse código para um script em src.
