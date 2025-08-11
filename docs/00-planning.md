@@ -79,7 +79,7 @@ Models will be rigorously evaluated to select the best performer for forecasting
 
 The final phase involves operationalizing the best model and considering future improvements.
 
-*   **Model Serialization:** The best-performing model, along with its entire preprocessing pipeline, will be saved to a file (e.g., using `pickle` or `joblib`) and stored in the `models/` directory.
+*   **Model Serialization:** The best-performing model, along with its entire preprocessing pipeline, will be saved to a file (e.g., using `joblib`) and stored in the `models/` directory.
 *   **Dashboard Development:** A simple interactive dashboard will be created to visualize the historical data, the model's forecasts, and key performance metrics.
     *   **Potential Tools:** Streamlit, Plotly Dash.
     *   **Features:** The dashboard will allow users to view the forecast, zoom into specific time periods, and see the model's accuracy.
